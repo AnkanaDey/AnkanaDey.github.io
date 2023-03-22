@@ -15,7 +15,7 @@ This time, we will study the effect of alcohol on congenital malformations. The 
 
 ```{r}
 alc <- factor(c("0","<1","1-2","3-5",">= 6"),levels=c("0","<1","1-2","3-5",">= 6"))
-alc.s <- c(0,0.5,1.5,4,7)
+alc.s <- c(0,0.5,1.5,20,7)
 malf <- c(48,38,5,1,1)
 no.malf <- c(17066,14464,788,126,37)
 data <- data.frame(cbind(malf,no.malf,alc,alc.s))
