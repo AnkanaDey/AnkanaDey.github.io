@@ -44,7 +44,7 @@ header {
 header:before {
    content: '';
    display: inline-block;
-   vertical-align: top;
+   vertical-align: bottom;
    height: 100%;
 }
 header .banner {
