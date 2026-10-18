@@ -270,42 +270,42 @@ const MENTORSHIP = [];
 const GALLERY = [
   {
     image: "assets/gallery/CAIMSFrithjofLab.jpg",
-    alt: "Group photo from the IVADO Thematic Semester 2026 in Montréal",
+    alt: "Lutscher Lab",
     caption: "Lutscher Lab at CAIMS - theoretical ecologists in action! (June, 2024)"
   },
   {
     image: "assets/gallery/ConvocationAnkanaMSC.jpg",
-    alt: "Photo with Bei Jiang and Linglong Kong",
+    alt: "Convocation",
     caption: "Convocation day at Université de Sherbrooke. (September, 2024)"
   },
   {
     image: "assets/gallery/ssc2023.jpg",
-    alt: "Photo with Bei Jiang and Linglong Kong",
+    alt: "SSC 2023",
     caption: "The UdeS Statistics team at the Statistical Society of Canada Annual Meeting. (May, 2023)"
   },
   {
     image: "assets/gallery/dinner defence.jpg",
-    alt: "Photo with PhD supervisor Éric Marchand",
+    alt: "Dinner after defence",
     caption: "Cherishing the Journey: Toasting to graduation. Capturing this moment, we embrace the end of one journey and the beginning of the next, surrounded by the wisdom and warmth of our beloved professors. (August, 2023)"
   },
   {
     image: "assets/gallery/lab defence.jpg",
-    alt: "PhD convocation at the Université de Sherbrooke",
+    alt: "MSc convocation at the Université de Sherbrooke",
     caption: "Celebrating the successful defense of my Master's thesis with this incredible team of thinkers (Laboratoire de Biologie Quantitative). (August, 2023)"
   },
   {
     image: "assets/gallery/ssc1.png",
-    alt: "Blackboard during a research visit to Rutgers University",
+    alt: "SSC Dinner",
     caption: "Gala dinner at the SSC Annual Meeting with friends from Université de Sherbrooke - a fun evening together! (May, 2023)"
   },
   {
     image: "assets/gallery/CIEEImg.jpg",
-    alt: "Jiang–Kong Lab members at a hot pot dinner in Edmonton",
+    alt: "CIEE",
     caption: "At the CIEE Living Data Project in Vancouver, British Columbia, working on the theme Linking Species Distributions and Traits to Understand Ecosystem Functioning. (February 2023)"
   },
   {
     image: "assets/gallery/BIOS2Img.jpeg",
-    alt: "Discussion meeting with Ed",
+    alt: "BIOS2",
     caption: "At the BIOS² Summer School in Mont-Orford National Park, Québec, Canada. (August 2022)"
   }
 ];
