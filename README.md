@@ -1,4 +1,4 @@
-# Ankana Dey website — Pankaj-layout version
+# Ankana Dey website
 
 This version preserves the uploaded Pankaj Bhagwat website structure and interaction pattern as closely as possible.
 
