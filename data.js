@@ -322,6 +322,7 @@ const AWARDS = {
     "Valorisation des travaux étudiants: concours, Département de mathématiques, Université de Sherbrooke (2023)"
   ],
   "Travel Awards & Grants": [
+   "Student Travel Grant, Department of Mathematics and Statistics, University of Ottawa (2026)",
     "Institut des sciences mathématiques (ISM) Travel Grant, UQAM, Montréal (2022)",
     "Computational Biodiversity Science and Services (BIOS2) Travel Award, BIOS2 (2022–2023)"
   ]
